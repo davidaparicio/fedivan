@@ -7,7 +7,7 @@
     "build": "npm run build -w shared && npm run build -w backend && npm run build -w frontend"
   },
   "devDependencies": {
-    "concurrently": "^9.1.2",
+    "concurrently": "^9.2.5",
     "typescript": "^5.7.3"
   }
 }
